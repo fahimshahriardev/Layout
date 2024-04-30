@@ -1,0 +1,423 @@
+body{
+	font-family: 'Lato';
+}
+p{
+    font-size: 20px;
+}
+.big-font{
+    font-size: 48px;
+}
+.big-font-2{
+    font-size: 30px;
+}
+.normal-font{
+    font-size: 20px;
+}
+/*===========header start=========*/
+.header{
+	background-color: #00194D;
+
+}
+.img-size{
+	width: 125px;
+	margin-top: 66px;
+    margin-bottom: 60px;
+}
+/*===========header end=========*/
+
+
+/*===========Second section start=========*/
+.bar{
+    margin-top:15px;
+    margin-bottom:15px;
+    border: 0;
+    border-top: 5px solid #28C1B6;
+    width: 35px;
+    margin-left: 0px;
+}
+.venn-section{
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+.venn-diagram{
+	width: 440px;
+    margin-top: 75px;
+
+}
+.venn-right{
+    margin-top: 75px;
+    margin-bottom: 8px;
+}
+.gemeinsam{
+    margin-bottom: 17px;
+}
+
+/*===========Second section end=========*/
+
+
+/*===========third section start=========*/
+
+.third-section{
+	background-color: #F5F6F8;
+	text-align: justify;
+}
+.third-section-margin{
+	margin-top: 55px;
+	margin-bottom: 5px;
+}
+.third-section-bottom-padding{
+	padding-bottom: 81px;
+}
+.middle-margin{
+    margin-bottom: 12px;
+}
+.starteker-text{
+	margin-top: 16px;
+}
+
+/*===========third section end=========*/
+
+
+/*===========fourth section start=========*/
+.bar-2{
+	margin-top: 10px;
+    margin-bottom: 12px;
+    border: 0;
+    border-top: 5px solid #29C2B5;
+    width: 40px;
+    margin-left: 110px;
+}
+
+.wir-section{
+	margin-top: 84px;
+	margin-bottom: 350px;
+}
+.wir-sub-head{
+    margin-bottom: 26px;
+}
+.wir-para{
+    margin-bottom: 86px;
+}
+
+
+/*===========fourth section end=========*/
+
+
+
+/*===========fifth section start=========*/
+.bar-ford{
+    margin-top: 15px;
+    border: 0;
+    border-top: 5px solid #28C1B6;
+    width: 35px;
+    margin-left: 0px;
+}
+.forderung-head{
+	margin-top: -317px;
+}
+.forderung{
+	background-color: #F5F6F8;
+	margin-bottom: 124px;
+	padding-bottom: 95px;
+}
+.forderung-2{
+	background-color: #29C2B5;
+	margin-top: -195px;
+}
+.project-together{
+	color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: -225px;
+    margin-top: 28px;
+}
+.forderung-right{
+	margin-bottom:48px;
+	color: #032F58;
+}
+.forderung-img{
+	width: 350px;
+    height: 330px;
+    margin-left: 245px;
+    margin-top: -38px;
+    margin-bottom: 92px;
+}
+.forderung-3{
+	background-color: #29C2B5;
+	color: #032F58;
+	padding-bottom: 35px;
+	
+}
+.foderung-mergin{
+    margin-bottom: 32px;
+    margin-top: -17px;
+}
+.foderung-mergin-2{
+    margin-bottom: 32px;
+    margin-top: -4px;
+}
+.foderung-mergin-3{
+    margin-bottom: 51px;
+    margin-top: -4px;
+}
+.bar-bera{
+    margin-top: 15px;
+    margin-bottom: 32px;
+    border: 0;
+    border-top: 5px solid #28C1B6;
+    width: 35px;
+    margin-left: 0px;
+}
+.br-head{
+margin-top: 40px;
+}
+.ihr-head{
+    margin-top: 13px;
+    margin-bottom: 14px;
+}
+.h2-project{
+	color: white;
+	margin-top: 62px;
+}
+.beratung{
+	margin-top: 40px;
+    margin-bottom: 29px;
+}
+.bar-3{
+	margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 5px solid #29C2B5;
+    width: 40px;
+    margin-left: 298px;
+}
+/*===========fifth section end=========*/
+
+
+
+/*===========sixth section start=========*/
+.fuzit{
+	text-align: center;
+	margin-bottom: 105px;
+}
+
+/*===========sixth section end=========*/
+
+/*===========kontakt section start=========*/
+.ftr{
+	background-color: #00194D;
+	color: white;
+}
+.kontakt{
+	margin-top: 156px;
+}
+.kontakt-para{
+    margin-top: 55px;
+}
+.kontakt-unser{
+    text-align: center;
+    margin-top: 65px;
+    margin-bottom: 31px;
+}
+.bar-kontakt{
+    margin-top: 15px;
+    margin-bottom: 32px;
+    border: 0;
+    border-top: 5px solid #28C1B6;
+    width: 35px;
+    margin-left: 0px;
+}
+.kontakt-img{
+    margin-top: 16px;
+}
+.kontakt-avatar{
+	margin-top: 40px;
+    margin-left: 75px;
+    margin-bottom: 40px;
+}
+.freun{
+	text-align: center;
+	margin-top: 76px;
+}
+
+.bar-4{
+	margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 5px solid #29C2B5;
+}
+.avatar{
+	width: 160px;
+	border-radius: 100px;
+    margin-bottom: 30px;
+}
+.contact-icon{
+    margin-top: 24px;
+	margin-bottom: 100px;
+}
+.avatar-qt{
+    margin-bottom: 58px;
+}
+.icon-nmbr{
+    margin-top: -18px;
+}
+
+.bar-5{
+	margin-top: 17px;
+    margin-bottom: 32px;
+    border: 0;
+    border-top: 5px solid #29C2B5;
+    width: 40px;
+    margin-left: 425px;
+}
+.footer-menu{
+    margin-top: 22px;
+}
+
+.cstm-fnt{
+	padding: 25px;
+    border: 1px solid #22A6A4;
+    border-radius: 50%;
+    font-size: 25px;
+    color: #22A6A4;
+}
+
+ul li{
+	list-style: none;
+	display:inline;
+ 
+}
+ul li a{
+	color: white;
+	padding: 5px;
+}
+/*===========kontakt section end=========*/
+
+
+
+/*===========mobile responsive section start=========*/
+@media (min-width: 320px) and (max-width:520px){
+
+.img-size {
+    width: 155px;
+    padding: 15px;
+    margin: 0 initial;
+    margin: 0 initial;
+    margin-left: 140px;
+}
+
+.venn-diagram {
+    width: 275px;
+    margin-bottom: 20px;
+}
+.forderung-head {
+    margin-top: -327px;
+}
+.forderung-2 {
+    background-color: #29C2B5;
+    margin-top: -253px;
+}
+.forderung-img {
+    width: 350px;
+    height: 250px;
+    margin-bottom: 45px;
+    margin-left: 0px;
+}
+.bar-5 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 5px solid #29C2B5;
+    width: 40px;
+     margin-left:210px;
+}
+
+}
+
+
+
+@media (min-width: 521px) and (max-width:768px){
+
+.img-size {
+    width: 155px;
+    padding: 15px;
+    margin-left: 225px;
+}
+
+.venn-diagram {
+    width: 440px;
+    margin-top: 225px;
+}
+.forderung-head {
+    margin-top: -318px;
+}
+
+.forderung-2 {
+    background-color: #29C2B5;
+    margin-top: -225px;
+}
+.forderung-img {
+    width: 350px;
+    height: 250px;
+    margin-left: 30px;
+    margin-top: -22px;
+    margin-bottom: 25px;
+}
+.project-together {
+    color: white;
+    font-size: 17px;
+    font-weight: 700;
+    margin-left: -109px;
+}
+.kontakt-img{
+	margin-top: 140px;
+}
+.bar-5 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 5px solid #29C2B5;
+    width: 40px;
+    margin-left: 233px;
+}
+
+
+}
+
+
+@media (min-width: 769px) and (max-width:991px){
+	.forderung-img {
+    width: 350px;
+    height: 250px;
+    margin-left: 50px;
+    margin-top: -30px;
+    margin-bottom: 30px;
+}
+.project-together {
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: -160px;
+}
+.bar-5 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 5px solid #29C2B5;
+    width: 40px;
+    margin-left: 268px;
+}
+}
+
+@media (min-width: 991px) and (max-width:1240px){
+.forderung-img {
+    width: 350px;
+    height: 250px;
+    margin-left: 230px;
+    margin-top: -30px;
+    margin-bottom: 35px;
+}
+}
+
+
+/*===========mobile responsive section end=========*/
